@@ -1,9 +1,13 @@
 .app-heading {
     font-size: 3.5rem;
     font-weight: 100;
+    color:white;
 }
 
 
 .welcome {
     background-image: url("https://cdn.jsdelivr.net/gh/stanleynga/ng_smartcom@master/src/assets/images/BlackHole.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
