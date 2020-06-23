@@ -4,17 +4,19 @@
     color:white;
 }
 
-
-.welcome {
-    background-image: url("asset/images/bg01.svg");
-
+  .welcome {
+   background-image:url('https://raw.githubusercontent.com/stanleynga/ng_smartcom/66a71d6b86b977daa55be1fd8c6c44d52f5477a5/src/assets/images/bg01.svg');
+    background-color:#fff;
     background-size: contain;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center;
 }
 
 .welcome1 {
     background-image: url("https://cdn.jsdelivr.net/gh/stanleynga/ng_smartcom@master/src/assets/images/BlackHole02.jpg");
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
     
