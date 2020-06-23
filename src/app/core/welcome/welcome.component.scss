@@ -6,10 +6,15 @@
 
 
 .welcome {
-    background-image: url("https://cdn.jsdelivr.net/gh/stanleynga/ng_smartcom@master/src/assets/images/BlackHole02.jpg");
+    background-image: url("asset/images/bg01.svg");
 
     background-size: contain;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
 }
+
+.welcome1 {
+    background-image: url("https://cdn.jsdelivr.net/gh/stanleynga/ng_smartcom@master/src/assets/images/BlackHole02.jpg");
+}
+    
